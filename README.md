@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href=" https://www.linkedin.com/in/rajesh-ghimire-658015331/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/rajesh-ghimire-658015331/">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
